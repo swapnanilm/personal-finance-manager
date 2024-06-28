@@ -1,0 +1,5 @@
+tk
+pytz
+matplotlib
+pytest
+sqlite3
